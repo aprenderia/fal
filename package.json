@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@fal-ai/serverless-client": "^0.15.0",
+    "@fal-ai/serverless-proxy": "^0.10.0"
+  }
+}
